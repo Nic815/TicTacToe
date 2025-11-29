@@ -5,6 +5,10 @@ A simple 2-player Tic-Tac-Toe game built for iOS.
 ## Demo
 
 
+https://github.com/user-attachments/assets/9a40abde-78db-4364-8f58-7283988622da
+
+
+
 ## Features
 - Two players on same device (X and O)
 - 3×3 grid UI
