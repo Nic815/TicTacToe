@@ -9,11 +9,10 @@ A simple 2-player Tic-Tac-Toe game built for iOS.
 - Two players on same device (X and O)
 - 3×3 grid UI
 - Tracks current player
-- Win detection + winning cell highlight
+- Win detection
 - Draw detection
 - Restart button (X or O starts)
 - Alert popup for winner/draw
-- Haptic feedback
 - Smooth animations
 
 ## Project Structure
